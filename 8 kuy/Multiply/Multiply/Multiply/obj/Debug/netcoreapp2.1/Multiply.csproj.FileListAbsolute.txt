@@ -1,0 +1,11 @@
+C:\Users\oleksandrche\IdeaProjects\codewars_C++\8 kuy\Multiply\Multiply\Multiply\bin\Debug\netcoreapp2.1\Multiply.deps.json
+C:\Users\oleksandrche\IdeaProjects\codewars_C++\8 kuy\Multiply\Multiply\Multiply\bin\Debug\netcoreapp2.1\Multiply.runtimeconfig.json
+C:\Users\oleksandrche\IdeaProjects\codewars_C++\8 kuy\Multiply\Multiply\Multiply\bin\Debug\netcoreapp2.1\Multiply.runtimeconfig.dev.json
+C:\Users\oleksandrche\IdeaProjects\codewars_C++\8 kuy\Multiply\Multiply\Multiply\bin\Debug\netcoreapp2.1\Multiply.dll
+C:\Users\oleksandrche\IdeaProjects\codewars_C++\8 kuy\Multiply\Multiply\Multiply\bin\Debug\netcoreapp2.1\Multiply.pdb
+C:\Users\oleksandrche\IdeaProjects\codewars_C++\8 kuy\Multiply\Multiply\Multiply\obj\Debug\netcoreapp2.1\Multiply.csprojAssemblyReference.cache
+C:\Users\oleksandrche\IdeaProjects\codewars_C++\8 kuy\Multiply\Multiply\Multiply\obj\Debug\netcoreapp2.1\Multiply.csproj.CoreCompileInputs.cache
+C:\Users\oleksandrche\IdeaProjects\codewars_C++\8 kuy\Multiply\Multiply\Multiply\obj\Debug\netcoreapp2.1\Multiply.AssemblyInfoInputs.cache
+C:\Users\oleksandrche\IdeaProjects\codewars_C++\8 kuy\Multiply\Multiply\Multiply\obj\Debug\netcoreapp2.1\Multiply.AssemblyInfo.cs
+C:\Users\oleksandrche\IdeaProjects\codewars_C++\8 kuy\Multiply\Multiply\Multiply\obj\Debug\netcoreapp2.1\Multiply.dll
+C:\Users\oleksandrche\IdeaProjects\codewars_C++\8 kuy\Multiply\Multiply\Multiply\obj\Debug\netcoreapp2.1\Multiply.pdb
